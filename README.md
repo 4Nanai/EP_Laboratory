@@ -1,4 +1,3 @@
-# EP_Laboratory  
-Mbed code for Embedded Process Lab ~~of Glasgow College~~  
+# MBED code for Laboratory use  
+Mbed code for Lab use  
 ⚠**DO NOT PLAGIARISM**  
-⚠**可以用于理解代码，但请不要抄袭**  
